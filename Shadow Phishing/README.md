@@ -5,6 +5,7 @@ This breakthrough will help bring Cipher's location closer to light and foil his
 The clock is ticking, though too much time and Cipher will know something is wrong and again disappear into the depths of the darknet. The race against time goes on. 
 
 __Username:__ shadowbyte@darknetmail.corp
+
 __Password:__ ShadowIsTheBest
 
 ## Solution
